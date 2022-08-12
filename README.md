@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Ruby on Rails, Java and Javascript
+- 🌱 I’m currently learning Ruby on Rails, React and Javascript
 
 <div>
   <a href="https://github.com/LucasRochaM">
