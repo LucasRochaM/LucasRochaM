@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Driven front-end developer with 3+ years experience designing and building responsive, user-friendly websites and web applications. Skilled in JavaScript, HTML5, CSS3, Bootstrap, Ruby on Rails, and Agile development.
+Driven full-stack developer with 3+ years experience designing and building responsive, user-friendly websites and web applications. Skilled in Ruby on Rails, JavaScript, JQuery, HTML5, CSS3, Bootstrap, and Agile development.
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
