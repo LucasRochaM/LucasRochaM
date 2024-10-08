@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Driven full-stack developer designing and building responsive, user-friendly websites and web applications. Skilled in Ruby on Rails, JavaScript, JQuery, HTML5, CSS3, Bootstrap, and Agile development.
+Software Engineer with international experience in creating efficient and scalable web applications. Experienced in all phases of software development, from planning and requirements analysis to implementation and maintenance. Solid knowledge of Ruby on Rails and Javascript ecosystem, providing responsive and user-friendly interfaces. Proven ability to work collaboratively in agile teams and communicate complex ideas clearly and concisely.
   
   <div style="display: inline_block"><br>
 <h3 align="left">Languages and Tools:</h3>
